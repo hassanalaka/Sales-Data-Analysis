@@ -38,11 +38,13 @@ The data was transformed with data in each column reformatted to the data type t
 
 This was carried out using the filter button in Excel. And the following result was achieved. 
 
+
 ![](freelance.png)
 
 ##### What is the first name and last name of the employees? 
 
 This was carried out using the Text to Column option in Excel and the below result was achieved. 
+
 
 ![](first_and_last_name.png)
 
@@ -50,11 +52,13 @@ This was carried out using the Text to Column option in Excel and the below resu
 
 This was carried out using the conditional formatting tool with specific to Top 1 and Bottom 1 and the following result was achieved. 
 
+
 ![](salary_highlight.png)
 
 ##### What is the total revenue and profit generated?
 
 This was carried out using the SUM function in excel to calculate the total revenue and profit. The result is shown in the picture below. 
+
 
 ![](total_revenue.png)
 ![](total_profit.png)
@@ -63,6 +67,7 @@ This was carried out using the SUM function in excel to calculate the total reve
 
 The average revenue and units sold was calculated using the AVERAGE function in Excel. The result is shown in the image below. 
 
+
 ![](average_revenue.png)
 ![](average_unit.png)
 
@@ -70,11 +75,13 @@ The average revenue and units sold was calculated using the AVERAGE function in 
 
 The total discount was calculated using the SUM function and the result is $9,205,248.24. It is shown in the image below. 
 
+
 ![](total_discount.png)
 
 ##### What is the number of sales recorded?
 
 This was carried out using the SUM function. The result achieved is shown in the image below. 
+
 
 ![](sales_number.png)
 
@@ -82,11 +89,13 @@ This was carried out using the SUM function. The result achieved is shown in the
 
 This was carried out using the MAX function. The result achieved is shown below. 
 
+
 ![](highest_profit.png)
 
 ##### Create a column for Sales Range to determine if sales are high or low? 
 
 The sales range was developed using the IF function. The achieved result is shown below. 
+
 
 ![](sales_range.png)
 
